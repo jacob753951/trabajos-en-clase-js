@@ -1,0 +1,27 @@
+main {
+  width: 75vw;
+  margin: 1rem;
+  border: 1px solid red;
+  background-color: 0.5rem;
+  box-shadow: 3px 3px 3px lightcoral;
+  padding: 1rem;
+}
+main section {
+  border: 1px solid #acacac;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn-primary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  padding: 0.5rem 1rem;
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+  border-radius: 0.5rem;
+}/*# sourceMappingURL=styles.css.map */
